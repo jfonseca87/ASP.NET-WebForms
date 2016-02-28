@@ -1,0 +1,4 @@
+http://www.aspsnippets.com/Articles/Calling-ASPNet-WebMethod-using-jQuery-AJAX.aspx
+http://ltuttini.blogspot.com.ar/2010/04/jquery-dropdownlist-anidados-nested.html
+http://ltuttini.blogspot.com/2011/04/jquery-por-donde-comenzar.html
+http://codigoprogramacion.com/cursos/javascript/ajax-en-jquery.html#.VOfJky4qLIU
